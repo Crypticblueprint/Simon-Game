@@ -22,4 +22,5 @@ the player wins! Simple!
   -JavaScipt                                                          
   -Audio files
  
-
+ ## Link to Game
+ https://crypticblueprint.github.io/simon-game/
