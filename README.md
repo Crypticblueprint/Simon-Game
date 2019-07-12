@@ -15,3 +15,10 @@ If the player repeats the sequence correctly, Simon continues
 by adding a new flashing light and tone to the current sequence.  
 If the player is able to replicate a pattern sequence of 20,
 the player wins! Simple!
+
+## Technologies Used
+  HTML
+  CSS
+  JavaScript
+  Audio files
+
