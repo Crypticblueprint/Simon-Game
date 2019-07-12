@@ -17,8 +17,9 @@ If the player is able to replicate a pattern sequence of 20,
 the player wins! Simple!
 
 ## Technologies Used
-  -HTML
-  -CSS
-  -JavaScript
+  -HTML                                                         
+  -CSS                                                            
+  -JavaScipt                                                          
   -Audio files
+ 
 
